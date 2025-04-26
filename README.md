@@ -44,6 +44,7 @@ Você pode baixar o APK diretamente por este link:
 
 ## 📲 Abra via QR Code
 Escaneie o QR Code abaixo para abrir o aplicativo diretamente no seu dispositivo:
+
 ![Qr-code](https://github.com/user-attachments/assets/4fdff7fe-0c46-4c2e-8aed-a381d6807252)
 
 
