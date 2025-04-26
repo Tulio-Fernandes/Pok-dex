@@ -23,9 +23,13 @@ Permite aos usuários criarem uma conta, fazerem login e explorarem um catálogo
 ---
 
 ## 📁 Estrutura de pastas principal
-lib/ ├── pages/ │ ├── login_pages.dart │ ├── register_page.dart │ └── pokedex.dart ├── main.dart └── firebase_options.dart
-
-assets/ ├── pokeball.gif ├── squirtle1.png └── squirtle2.png
+lib/
+├── pages/
+│   ├── login_pages.dart
+│   ├── register_page.dart
+│   └── pokedex.dart
+├── main.dart
+└── firebase_options.dart
 
 ## 🎨 Demonstração
 ![TelaCadastro](https://github.com/user-attachments/assets/2778bade-26a7-4e62-81cb-5d7c38e27359)
