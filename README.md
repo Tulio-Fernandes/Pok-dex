@@ -38,7 +38,13 @@ lib/
 ![TelaPesquisa](https://github.com/user-attachments/assets/bec0d738-5467-4c65-b67e-56093ef1daf0)
 ![TelaPokemon](https://github.com/user-attachments/assets/e593fdf7-dade-4e17-addb-0b0916a2a1db)
 
+## 📦 Download do APK
+Você pode baixar o APK diretamente por este link:
+🔗 [Baixar APK](https://flutlab.io/apk/aHR0cHM6Ly9hcGkuZmx1dGxhYi5pby9wcm9qZWN0cy8yNDU3MzM5L2Rvd25sb2FkLWFwcD9rZXk9anVwYW5mZndjcWsybnN5bng0YzEmdGFyZ2V0PXdlYi1yZWxlYXNl)
 
+## 📲 Abra via QR Code
+Escaneie o QR Code abaixo para abrir o aplicativo diretamente no seu dispositivo:
+![Qr-code](https://github.com/user-attachments/assets/4fdff7fe-0c46-4c2e-8aed-a381d6807252)
 
 
 
